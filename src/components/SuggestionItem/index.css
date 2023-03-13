@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.suggestion-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.suggestion {
+  color: #475569;
+  font-size: 18px;
+}
+.cross-button {
+  background-color: #ffffff;
+  border: none;
+}
+.cross-icon {
+  height: 15px;
+  width: 15px;
+}
